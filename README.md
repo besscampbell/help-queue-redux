@@ -17,4 +17,4 @@ Authored by: Bess Campbell
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2021 *_Bess Cammpbell_*
+Copyright (c) 2021 *_Bess Campbell_*
